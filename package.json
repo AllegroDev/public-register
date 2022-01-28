@@ -1,0 +1,21 @@
+{
+  "name": "-asdf",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aoi.js": "^4.4.4",
+    "express": "^4.17.2",
+    "install": "^0.13.0",
+    "yaz": "0.0.3-1",
+    "yt-search": "^2.9.0"
+  }
+}
